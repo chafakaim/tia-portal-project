@@ -4,3 +4,9 @@ and debug
 there is essentially 2 part on the program machine part and equipment part 
 machine part contains blocks to control machine state, main air control ,safety block ..ect
 equipement part though has blocks like main machine sequencer ,filling sequencer ,capping sequencer,verification block,reject sequence ...ect.
+
+test :
+filling block:test complete.
+capping block:test complete.
+verification or scaling block :test complete.
+reject block :test complete.
